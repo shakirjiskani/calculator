@@ -1,4 +1,5 @@
 # calculator
+Live Demo https://shakirjiskani.github.io/calculator/
 **Simple Web Calculator**
 Welcome to my first GitHub repository! This is a simple, functional web-based calculator created as a learning project during my Information Technology studies. This project focuses on the fundamentals of front-end web development.
 
